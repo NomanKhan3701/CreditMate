@@ -1,6 +1,3 @@
-<p align='center'>
-<img width="30%" src='./docs/images/logo.png'>
-</p>
 <h1>
 <p align='center'>
 Creditmate
