@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "my-app",
+    "slug": "my-app",
+    "plugins": ["react-native-background-geolocation"],
+    "UIBackgroundModes": ["location", "fetch"]
+  }
+}

@@ -1,0 +1,16 @@
+.git
+.vscode
+.*ignore
+.env
+docker-compose*.yml
+Dockerfile*
+Makefile
+*.md
+**/node_modules
+**/build
+**/__pycache__
+venv/
+pytest_cache/
+.stignore
+serviceAccountKey.json
+.env.bk

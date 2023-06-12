@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+pip-tools
+confluent-kafka
+googlemaps
+black
+python-dotenv
+pymongo
